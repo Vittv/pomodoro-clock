@@ -1,2 +1,2 @@
-# FFC Cert Project - Pomodoro Clock
+# FCC Cert Project - Pomodoro Clock
 ## (React)
